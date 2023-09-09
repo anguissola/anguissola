@@ -7,7 +7,7 @@ To reiterate my bio, I am an artist, writer, and student. Emphasis on student; I
 🦗🦗
 
 <picture>
-  <src="https://user-images.githubusercontent.com/143849684/266794065-5c501dd0-fff4-428b-b025-4817f5dce47c.jpg">
+  <src="[https://user-images.githubusercontent.com/143849684/266794065-5c501dd0-fff4-428b-b025-4817f5dce47c.jpg](https://user-images.githubusercontent.com/143849684/266794065-5c501dd0-fff4-428b-b025-4817f5dce47c.jpg)">
   <img alt="Shows a cropped scan of a bookpage with the words, 'A spark burst forth,' circled aggressively in pencil."> 
 </picture>
 
